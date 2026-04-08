@@ -32,10 +32,9 @@ lowo
 
 In the diagram below, the substring is highlighted in green:
 
-```
-0  1  2  3  4  5  6  7  8  9
 
-H  e  I  o  w  o  r  I  d
-```
+
+
 
 ![img.png](https://s3.amazonaws.com/hr-challenge-images/22039/1470896981-637b6a022f-substring.png)
+
