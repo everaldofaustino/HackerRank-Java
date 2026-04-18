@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank-Java.iml" filepath="$PROJECT_DIR$/.idea/HackerRank-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Currency Formatter/Java Currency Formatter.iml" filepath="$PROJECT_DIR$/Java Currency Formatter/Java Currency Formatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" filepath="$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java String Reverse/Java String Reverse.iml" filepath="$PROJECT_DIR$/Java String Reverse/Java String Reverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Strings Introduction/Java Strings Introduction.iml" filepath="$PROJECT_DIR$/Java Strings Introduction/Java Strings Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Substring/Java Substring.iml" filepath="$PROJECT_DIR$/Java Substring/Java Substring.iml" />
