@@ -223,10 +223,5 @@ Desafio disponível em:
 
 ---
 
-## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT.
 
----
-
-⭐ Se este projeto foi útil, considere deixar uma estrela no repositório.
